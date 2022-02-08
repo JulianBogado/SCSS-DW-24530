@@ -1,0 +1,26 @@
+header nav div {
+  background-color: #9a9ad8;
+  height: 100px; }
+
+footer {
+  margin: 5em auto 0 auto;
+  width: 100%;
+  background-color: #9a9ad8;
+  height: 5em; }
+  footer a {
+    text-decoration: none; }
+
+main h1 {
+  color: #8888b3;
+  margin: 1em auto; }
+
+main img {
+  border: 1px solid gray;
+  border-radius: 5px; }
+
+main p {
+  margin: 2em auto;
+  width: 750; }
+
+main h1 {
+  color: green; }
