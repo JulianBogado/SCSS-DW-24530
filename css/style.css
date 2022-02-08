@@ -10,7 +10,7 @@ footer {
   footer a {
     text-decoration: none; }
 
-main h1 {
+main .h1Index {
   color: #8888b3;
   margin: 1em auto; }
 
@@ -23,4 +23,20 @@ main p {
   width: 750; }
 
 main h1 {
-  color: green; }
+  color: green;
+  margin: 2em auto; }
+
+main div h3 {
+  margin: 2em auto; }
+
+main div div {
+  margin: 25px auto; }
+
+main h1 {
+  color: green;
+  margin: 2em auto; }
+
+main .forms {
+  width: 70%;
+  border: 1px solid gray;
+  border-radius: 8px; }
